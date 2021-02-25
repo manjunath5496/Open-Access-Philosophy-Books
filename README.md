@@ -162,7 +162,7 @@ Probability and the Regress Problem </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(71).pdf" style="text-decoration:none;">A Concise Introduction to Logic</a></li>
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(72).pdf" style="text-decoration:none;">A Philosophical
-Examination of Social Justice and Child Povert</a></li> 
+Examination of Social Justice and Child Poverty</a></li> 
  
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(73).pdf" style="text-decoration:none;">The Annals of Bioethics: Regional Perspectives in Bioethics</a></li>
