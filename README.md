@@ -274,5 +274,26 @@ The Correspondence of Jeremy Bentham, Volume 1: 1752 to 1776 </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(121).pdf" style="text-decoration:none;">Awe for the Tiger, Love for the Lamb</a></li>   
    
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(122).pdf" style="text-decoration:none;">The Philosophes</a></li>  
-     
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(123).pdf" style="text-decoration:none;">Stand Out of Our Light</a></li>  
+   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(124).pdf" style="text-decoration:none;">Aquinas on Virtue: A Causal Reading</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(125).pdf" style="text-decoration:none;">
+Tropes of Transport: Hegel and Emotion </a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(126).pdf" style="text-decoration:none;">The Philosophy of the Imagination in Vico and Malebranche</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(127).pdf" style="text-decoration:none;">Karl Popper, Science
+and Enlightenment</a></li>  
+
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(128).pdf" style="text-decoration:none;">Rousseau and the Problem of Human Relations</a></li>  
+
+
+
+
+
+
+
 </ul>
