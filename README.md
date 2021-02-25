@@ -29,7 +29,7 @@ and Memory: The Politics of the Second World War in Communist Poland</a></li>
 on Games and Interaction</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(12).pdf" style="text-decoration:none;">Plato's Republic: 
 An Introduction</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(13).pdf" style="text-decoration:none;">Event Extraction Using Distant Supervision</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(13).pdf" style="text-decoration:none;">The Middle Included: Logos in Aristotle</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(14).pdf" style="text-decoration:none;">Well-being, Sustainability and Social Development</a></li>
                               
@@ -121,7 +121,8 @@ Foundations, Tools, and Applications </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(55).pdf" style="text-decoration:none;">The Priority of Locomotion
 in Aristotle's Physics</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(56).pdf" style="text-decoration:none;">Towards Few-Shot Event Mention Retrieval: An Evaluation Framework and A Siamese Network Approach </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(56).pdf" style="text-decoration:none;">Debating Humanity:
+Towards a Philosophical Sociology </a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(57).pdf" style="text-decoration:none;">Ontological Catastrophe</a></li>
  
@@ -235,7 +236,8 @@ First Person Standpoint: An Introduction to Moral Philosophy</a></li>
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(105).pdf" style="text-decoration:none;">Animals and Ethics 101: Thinking Critically About Animal Rights</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(106).pdf" style="text-decoration:none;">Open Event Extraction from Online Text using a Generative Adversarial Network</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(106).pdf" style="text-decoration:none;">Resemblance and Representation: 
+An Essay in the Philosophy of Pictures</a></li> 
   
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(107).pdf" style="text-decoration:none;">An Introduction to Philosophy</a></li> 
   
