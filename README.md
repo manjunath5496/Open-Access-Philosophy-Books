@@ -109,148 +109,168 @@ in Economics: The Making of Economic Theory</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(50).pdf" style="text-decoration:none;">Dignity in the 21st Century: 
 Middle East and West</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(51).pdf" style="text-decoration:none;">Edge-Enhanced Graph Convolution Networks for Event Detection with Syntactic Relation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(52).pdf" style="text-decoration:none;">How Does Context Matter? On the Robustness of Event Detection with Context-Selective Mask Generalization</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(51).pdf" style="text-decoration:none;">Philosophy in a Meaningless Life</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(52).pdf" style="text-decoration:none;">The Ethics of Medical Data
+Donation</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(53).pdf" style="text-decoration:none;">Resource-Enhanced Neural Model for Event Argument Extraction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(53).pdf" style="text-decoration:none;">The Democracy of Objects</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(54).pdf" style="text-decoration:none;">Graph Transformer Networks with Syntactic and Semantic Structures for Event Argument Extraction </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(54).pdf" style="text-decoration:none;">Linked Democracy: 
+Foundations, Tools, and Applications </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(55).pdf" style="text-decoration:none;">Learning to Classify Events from Human Needs Category Descriptions</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(55).pdf" style="text-decoration:none;">The Priority of Locomotion
+in Aristotle's Physics</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(56).pdf" style="text-decoration:none;">Towards Few-Shot Event Mention Retrieval: An Evaluation Framework and A Siamese Network Approach </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(57).pdf" style="text-decoration:none;">Cross-lingual Structure Transfer for Zero-resource Event Extraction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(57).pdf" style="text-decoration:none;">Ontological Catastrophe</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(58).pdf" style="text-decoration:none;">Cross-Domain Evaluation of Edge Detection for Biomedical Event Extraction</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(59).pdf" style="text-decoration:none;">Event Extraction from Unstructured Amharic Text</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(58).pdf" style="text-decoration:none;">New Materialism:
+Interviews and Cartographies</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(59).pdf" style="text-decoration:none;">Essays on Values and Practical Rationality: Ethical and Aesthetical Dimensions</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(60).pdf" style="text-decoration:none;">A Platform for Event Extraction in Hindi </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(60).pdf" style="text-decoration:none;">Knowledge from a Human
+Point of View </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(61).pdf" style="text-decoration:none;"> Extensively Matching for Few-shot Learning Event Detection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(61).pdf" style="text-decoration:none;"> The Principle of Unrest: 
+Activist Philosophy in the Expanded Field</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(62).pdf" style="text-decoration:none;">Coreference based event-argument relation extraction on biomedical text</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(62).pdf" style="text-decoration:none;">Wellbeing, Freedom
+and Social Justice: The Capability Approach Re-Examined</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(63).pdf" style="text-decoration:none;">Exploiting the Ground-Truth: An Adversarial Imitation Based Knowledge Distillation Approach for Event Detection</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(63).pdf" style="text-decoration:none;">Evidence-Based Medicine – A Paradigm Ready To Be Challenged?</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(64).pdf" style="text-decoration:none;">Modeling Textual Cohesion for Event Extraction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(64).pdf" style="text-decoration:none;">Tolerance: 
+The Beacon of the Enlightenment</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(65).pdf" style="text-decoration:none;">Image Enhanced Event Detection in News Articles </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(65).pdf" style="text-decoration:none;">Fading Foundations: 
+Probability and the Regress Problem </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(66).pdf" style="text-decoration:none;">A Probabilistic Soft Logic Based Approach to Exploiting Latent and Global Information in Event Classification</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(66).pdf" style="text-decoration:none;">A Guide to Good Reasoning: Cultivating Intellectual Virtues</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(67).pdf" style="text-decoration:none;">Language Specific Issue and Feature Exploration in Chinese Event Extraction</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(67).pdf" style="text-decoration:none;">Synod on the Freedom of Conscience: A Thorough Examination during the Gathering Held in the Year 1582 in the City of Freetown</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(68).pdf" style="text-decoration:none;">Jointly Extracting Event Triggers and Arguments by Dependency-Bridge RNN and Tensor-Based Argument Interaction</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(68).pdf" style="text-decoration:none;">Daniel Rees: Hunger and Modern Writing</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(69).pdf" style="text-decoration:none;">Graph Convolutional Networks with
-Argument-Aware Pooling for Event Detection</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(69).pdf" style="text-decoration:none;">Explaining Imagination</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(70).pdf" style="text-decoration:none;">Including New Patterns to Improve Event Extraction Systems</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(70).pdf" style="text-decoration:none;">Psychology in Edgar Allan Poe</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(71).pdf" style="text-decoration:none;">A Novel Feature Selection Strategy for Enhanced Biomedical Event Extraction Using the Turku System</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(71).pdf" style="text-decoration:none;">A Concise Introduction to Logic</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(72).pdf" style="text-decoration:none;">Predicting Unknown Time Arguments
-based on Cross-Event Propagation</a></li> 
- 
- 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(73).pdf" style="text-decoration:none;">Unsupervised Event Coreference Resolution with Rich Linguistic Features</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(74).pdf" style="text-decoration:none;">Event Specific Multimodal Pattern Mining for Knowledge Base Construction</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(75).pdf" style="text-decoration:none;">Joint Event Extraction Based on Hierarchical Event Schemas From FrameNet</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(76).pdf" style="text-decoration:none;">A Semantic Approach to IE Pattern Induction</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(77).pdf" style="text-decoration:none;">REES: A Large-Scale Relation and Event Extraction System</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(72).pdf" style="text-decoration:none;">A Philosophical
+Examination of Social Justice and Child Povert</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(78).pdf" style="text-decoration:none;">A Maximum Entropy Approach to
-Information Extraction from Semi-Structured and Free Text</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(79).pdf" style="text-decoration:none;">Automatically constructing a dictionary for information extraction tasks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(73).pdf" style="text-decoration:none;">The Annals of Bioethics: Regional Perspectives in Bioethics</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(74).pdf" style="text-decoration:none;">Towards a Multiversity?
+Universities between Global Trends and National Traditions</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(75).pdf" style="text-decoration:none;">Introduction to Philosophy: Ethics</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(76).pdf" style="text-decoration:none;">Thinking the Problematic</a></li>
 
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(80).pdf" style="text-decoration:none;">A Review of Relation Extraction</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(77).pdf" style="text-decoration:none;">The Biopsychosocial Model of Health and Disease</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(81).pdf" style="text-decoration:none;">A Survey of Techniques for Event Detection in Twitter</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(82).pdf" style="text-decoration:none;">Complex event extraction at PubMed scale</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(83).pdf" style="text-decoration:none;">Boosting automatic event extraction from the literature using domain adaptation and coreference resolution</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(84).pdf" style="text-decoration:none;">Automatic Acquisition of Domain Knowledge for Information Extraction</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(85).pdf" style="text-decoration:none;">Filtered Ranking for Bootstrapping in Event Extraction</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(86).pdf" style="text-decoration:none;">Joint Modeling for Chinese Event Extraction with Rich Linguistic Features</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(87).pdf" style="text-decoration:none;">Joint Modeling of Trigger Identification and Event Type Determination in Chinese Event Extraction</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(88).pdf" style="text-decoration:none;">Leveraging Multilingual Training for Limited Resource Event Extraction</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(89).pdf" style="text-decoration:none;">Incremental Global Event Extraction</a></li>
-  
-  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(90).pdf" style="text-decoration:none;"> Joint Inference for Event Coreference Resolution</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(91).pdf" style="text-decoration:none;">Event Detection with Burst Information Networks</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(92).pdf" style="text-decoration:none;">Open-Domain Event Detection using Distant Supervision</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(93).pdf" style="text-decoration:none;">Adaptive Information Extraction from Text by Rule Induction and Generalisation</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(94).pdf" style="text-decoration:none;">Fast and Robust Joint Models for Biomedical Event Extraction</a></li> 
-  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(95).pdf" style="text-decoration:none;">Joint Entity and Event Coreference Resolution across Documents</a></li>  
-  
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(96).pdf" style="text-decoration:none;">Employing Compositional Semantics and Discourse Consistency in Chinese Event Extraction</a></li> 
-  
-  
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(97).pdf" style="text-decoration:none;">Relieving the Computational Bottleneck: Joint Inference for Event Extraction with High-Dimensional Features</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(78).pdf" style="text-decoration:none;">Causation and Laws of Nature</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(79).pdf" style="text-decoration:none;">Sceptical Paths: 
+Enquiry and Doubt from Antiquity to the Present</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(98).pdf" style="text-decoration:none;">Cross-document Event Coreference Resolution based on Cross-media Features</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(80).pdf" style="text-decoration:none;">Inside the Politics of Technology: Agency and Normativity in the Co-Production of Technology and Society</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(81).pdf" style="text-decoration:none;">The Philosophical Salon: 
+Speculations, Reflections, Interventions</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(82).pdf" style="text-decoration:none;">Forces of Secularity
+in the Modern World</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(83).pdf" style="text-decoration:none;">Sex After Life</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(84).pdf" style="text-decoration:none;">Death of the PostHuman</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(85).pdf" style="text-decoration:none;">Plankton Dreams</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(86).pdf" style="text-decoration:none;">Remembering and
+Disremembering the Dead</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(87).pdf" style="text-decoration:none;">The Myths We Live By</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(88).pdf" style="text-decoration:none;">Technology, Trust, and Religion: Roles of Religions in Controversies on Ecology and the Modification of Life</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(89).pdf" style="text-decoration:none;">Thick Evaluation</a></li>
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(99).pdf" style="text-decoration:none;">Joint Event Trigger Identification and Event Coreference Resolution with Structured Perceptron</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(100).pdf" style="text-decoration:none;">Event Detection and Co-reference with Minimal Supervision</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(90).pdf" style="text-decoration:none;"> Environments of Intelligence</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(91).pdf" style="text-decoration:none;">Terror, Theory and the Humanities</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(92).pdf" style="text-decoration:none;">The Shape of Agency</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(93).pdf" style="text-decoration:none;">The Intelligent Troglodyte’s Guide to Plato's Republic</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(94).pdf" style="text-decoration:none;">Introduction to Philosophy: Logic</a></li> 
   
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(101).pdf" style="text-decoration:none;">Modeling Skip-Grams for Event Detection with Convolutional Neural Networks</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(95).pdf" style="text-decoration:none;">Teaching Ethics in
+Organ Transplantation and Tissue Donation: Cases and Movies</a></li>  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(102).pdf" style="text-decoration:none;">Identifying civilians killed by police with distantly supervised entity-event extraction</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(96).pdf" style="text-decoration:none;">The Dispute concerning Rhetoric
+in Hellenistic Thought</a></li> 
+  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(97).pdf" style="text-decoration:none;">Religious Motivation and the Origins of Buddhism: A Social-Psychological Exploration of the Origins of a World Religion</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(98).pdf" style="text-decoration:none;">A Philosophy of Israel Education</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(99).pdf" style="text-decoration:none;">The Citizen Lobby</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(100).pdf" style="text-decoration:none;">On
+the Public</a></li>  
+  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(101).pdf" style="text-decoration:none;">Thomistic Principles
+and Bioethics</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(102).pdf" style="text-decoration:none;">Metaethics from a
+First Person Standpoint: An Introduction to Moral Philosophy</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(103).pdf" style="text-decoration:none;">Exploiting Contextual Information via Dynamic Memory Network for Event Detection</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(103).pdf" style="text-decoration:none;">Introduction to Philosophy: Philosophy of Religion</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(104).pdf" style="text-decoration:none;">Collective Event Detection via a Hierarchical and Bias Tagging Networks with Gated Multi-level Attention Mechanisms</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(104).pdf" style="text-decoration:none;">Numinous Subjects: Engendering the Sacred in Western Culture, an Essay</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(105).pdf" style="text-decoration:none;">Similar but not the Same: Word Sense Disambiguation Improves Event Detection via Neural Representation Matching</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(105).pdf" style="text-decoration:none;">Animals and Ethics 101: Thinking Critically About Animal Rights</a></li> 
  
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(106).pdf" style="text-decoration:none;">Open Event Extraction from Online Text using a Generative Adversarial Network</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(107).pdf" style="text-decoration:none;">Cross-lingual Structure Transfer for Relation and Event Extraction</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(107).pdf" style="text-decoration:none;">An Introduction to Philosophy</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(108).pdf" style="text-decoration:none;">Event Detection with Trigger-Aware Lattice Neural Network</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(108).pdf" style="text-decoration:none;">Introduction to Philosophy: Philosophy of Mind</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(109).pdf" style="text-decoration:none;">Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(109).pdf" style="text-decoration:none;">Introduction: Key Thinkers and Their Contemporary Legacy</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(110).pdf" style="text-decoration:none;">Neural Cross-Lingual Event Detection with Minimal Parallel Resources </a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(110).pdf" style="text-decoration:none;">Consciousness and Moral Status </a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(111).pdf" style="text-decoration:none;">Event Detection with Multi-Order Graph Convolution and Aggregated Attention</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(111).pdf" style="text-decoration:none;">Life and Technology:
+An Inquiry Into and Beyond Simondon</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(112).pdf" style="text-decoration:none;">HMEAE: Hierarchical Modular Event Argument Extraction</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(112).pdf" style="text-decoration:none;">forallx: 
+An Introduction to Formal Logic</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(113).pdf" style="text-decoration:none;">Entity, Relation, and Event Extraction with Contextualized Span Representations</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(113).pdf" style="text-decoration:none;">Keys to Understanding the Middle East</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(114).pdf" style="text-decoration:none;">Financial Event Extraction Using Wikipedia-Based Weak Supervision</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(115).pdf" style="text-decoration:none;">An Overview of Event Extraction from Text</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(114).pdf" style="text-decoration:none;">A Quarter-Century of Normalization and Social Role Valorization: Evolution and Impact</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(115).pdf" style="text-decoration:none;">Cultural Revolutions (Reason Versus Culture in Philosophy, Politics, and Jihad)</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(116).pdf" style="text-decoration:none;">Joint Entity and Event Extraction with Generative Adversarial Imitation Learning</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(116).pdf" style="text-decoration:none;">The Insistence of Art: Aesthetic Philosophy After Early Modernity</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(117).pdf" style="text-decoration:none;">Bootstrapped Training of Event Extraction Classifiers</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(117).pdf" style="text-decoration:none;">
+The Correspondence of Jeremy Bentham, Volume 1: 1752 to 1776 </a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(118).pdf" style="text-decoration:none;">Skip N-grams and Ranking Functions for Predicting Script Events</a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(118).pdf" style="text-decoration:none;">The Correspondence of Jeremy Bentham, Volume 4: October 1788 to December 1793</a></li>  
    
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(119).pdf" style="text-decoration:none;">Event detection based on open information extraction and ontology</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(119).pdf" style="text-decoration:none;">The Correspondence of Jeremy Bentham, Volume 5: January 1794 to December 1797</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(120).pdf" style="text-decoration:none;">Event Coreference Resolution using Mincut based Graph Clustering</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(120).pdf" style="text-decoration:none;">The Correspondence of Jeremy Bentham, Volume 3. January 1781 to October 1788</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(121).pdf" style="text-decoration:none;">On Semantics and Deep Learning for Event Detection in Crisis Situations</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(121).pdf" style="text-decoration:none;">Awe for the Tiger, Love for the Lamb</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(122).pdf" style="text-decoration:none;">Chinese Event Extraction Based on Attention and Semantic Features: A Bidirectional Circular Neural Network</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Philosophy-Books/blob/master/ph(122).pdf" style="text-decoration:none;">The Philosophes</a></li>  
      
 </ul>
